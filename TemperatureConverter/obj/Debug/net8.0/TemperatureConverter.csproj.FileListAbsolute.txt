@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.exe
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.deps.json
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.dll
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.pdb
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.dll
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\refint\TemperatureConverter.dll
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.pdb
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\ref\TemperatureConverter.dll
+D:\TF\C#\BasicProgrammingExercises\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.sourcelink.json
