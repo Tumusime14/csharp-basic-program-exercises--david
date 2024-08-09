@@ -1,0 +1,5 @@
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DayzConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DayzConverter.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DayzConverter.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DayzConverter.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DayzConverter.sourcelink.json

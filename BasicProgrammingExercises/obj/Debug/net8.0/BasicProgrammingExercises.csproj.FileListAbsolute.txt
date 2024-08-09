@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\bin\Debug\net8.0\BasicProgrammingExercises.exe
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\bin\Debug\net8.0\BasicProgrammingExercises.deps.json
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\bin\Debug\net8.0\BasicProgrammingExercises.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\bin\Debug\net8.0\BasicProgrammingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\bin\Debug\net8.0\BasicProgrammingExercises.pdb
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\refint\BasicProgrammingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.pdb
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\ref\BasicProgrammingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\BasicProgrammingExercises\obj\Debug\net8.0\BasicProgrammingExercises.sourcelink.json

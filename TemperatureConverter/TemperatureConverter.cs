@@ -4,16 +4,13 @@ namespace TemperatureConverter
 {
     class TemperatureConverter
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Enter temperature in Celsius: ");
 
-            string celsuis = Console.ReadLine();
-
-            double celsius = Convert.ToDouble(celsuis);
-            double fahrenheit = (celsius * 1.8) + 32;
-            Console.WriteLine($"{celsius}°C is equal to {fahrenheit}°F");
-
+            Double celsuis = Convert.ToDouble(Console.ReadLine());
+            double fahrenheit = ((celsuis * 1.8) + 32);
+            Console.WriteLine($"{celsuis}°C is equal to {fahrenheit}°F");
         }
     }
 }

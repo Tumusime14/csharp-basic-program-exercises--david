@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsciiValueFinder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db34bd2d7602fa5bcb54b10a61cbfdde53aecb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7c828db1ad4cb5d335209e1ba1013ab1db7c885")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsciiValueFinder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsciiValueFinder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

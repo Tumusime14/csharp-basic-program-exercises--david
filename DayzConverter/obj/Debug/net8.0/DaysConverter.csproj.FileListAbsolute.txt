@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\bin\Debug\net8.0\DaysConverter.exe
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\bin\Debug\net8.0\DaysConverter.deps.json
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\bin\Debug\net8.0\DaysConverter.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\bin\Debug\net8.0\DaysConverter.dll
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\bin\Debug\net8.0\DaysConverter.pdb
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.dll
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\refint\DaysConverter.dll
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.pdb
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\DaysConverter.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\DayzConverter\obj\Debug\net8.0\ref\DaysConverter.dll
