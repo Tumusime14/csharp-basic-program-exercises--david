@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\bin\Debug\net8.0\RectangleAreaCalculator.exe
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\bin\Debug\net8.0\RectangleAreaCalculator.deps.json
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\bin\Debug\net8.0\RectangleAreaCalculator.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\bin\Debug\net8.0\RectangleAreaCalculator.dll
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\bin\Debug\net8.0\RectangleAreaCalculator.pdb
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.dll
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\refint\RectangleAreaCalculator.dll
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.pdb
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\RectangleAreaCalculator.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\RectangleAreaCalculator\obj\Debug\net8.0\ref\RectangleAreaCalculator.dll
