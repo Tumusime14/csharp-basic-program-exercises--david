@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\bin\Debug\net8.0\AsciiValueFinder.exe
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\bin\Debug\net8.0\AsciiValueFinder.deps.json
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\bin\Debug\net8.0\AsciiValueFinder.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\bin\Debug\net8.0\AsciiValueFinder.dll
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\bin\Debug\net8.0\AsciiValueFinder.pdb
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.dll
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\refint\AsciiValueFinder.dll
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.pdb
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\ref\AsciiValueFinder.dll
+D:\TF\C#\BasicProgrammingExercises\AsciiValueFinder\obj\Debug\net8.0\AsciiValueFinder.sourcelink.json
