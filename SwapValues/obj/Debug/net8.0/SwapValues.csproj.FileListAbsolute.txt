@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\SwapValues\bin\Debug\net8.0\SwapValues.exe
+D:\TF\C#\BasicProgrammingExercises\SwapValues\bin\Debug\net8.0\SwapValues.deps.json
+D:\TF\C#\BasicProgrammingExercises\SwapValues\bin\Debug\net8.0\SwapValues.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\SwapValues\bin\Debug\net8.0\SwapValues.dll
+D:\TF\C#\BasicProgrammingExercises\SwapValues\bin\Debug\net8.0\SwapValues.pdb
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.dll
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\refint\SwapValues.dll
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.pdb
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\SwapValues.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\SwapValues\obj\Debug\net8.0\ref\SwapValues.dll
