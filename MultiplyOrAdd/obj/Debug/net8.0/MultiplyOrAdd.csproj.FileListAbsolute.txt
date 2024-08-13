@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\bin\Debug\net8.0\MultiplyOrAdd.exe
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\bin\Debug\net8.0\MultiplyOrAdd.deps.json
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\bin\Debug\net8.0\MultiplyOrAdd.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\bin\Debug\net8.0\MultiplyOrAdd.dll
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\bin\Debug\net8.0\MultiplyOrAdd.pdb
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.dll
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\refint\MultiplyOrAdd.dll
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.pdb
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\MultiplyOrAdd.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\MultiplyOrAdd\obj\Debug\net8.0\ref\MultiplyOrAdd.dll

@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\bin\Debug\net8.0\EvenOrOdd.exe
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\bin\Debug\net8.0\EvenOrOdd.deps.json
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\bin\Debug\net8.0\EvenOrOdd.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\bin\Debug\net8.0\EvenOrOdd.dll
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\bin\Debug\net8.0\EvenOrOdd.pdb
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.dll
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\refint\EvenOrOdd.dll
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.pdb
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\EvenOrOdd.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\EvenOrOOdd\obj\Debug\net8.0\ref\EvenOrOdd.dll

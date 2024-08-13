@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\LeapYear\bin\Debug\net8.0\LeapYear.exe
+D:\TF\C#\BasicProgrammingExercises\LeapYear\bin\Debug\net8.0\LeapYear.deps.json
+D:\TF\C#\BasicProgrammingExercises\LeapYear\bin\Debug\net8.0\LeapYear.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\LeapYear\bin\Debug\net8.0\LeapYear.dll
+D:\TF\C#\BasicProgrammingExercises\LeapYear\bin\Debug\net8.0\LeapYear.pdb
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.dll
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\refint\LeapYear.dll
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.pdb
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\LeapYear.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\LeapYear\obj\Debug\net8.0\ref\LeapYear.dll
