@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\bin\Debug\net8.0\SumOfDigits.exe
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\bin\Debug\net8.0\SumOfDigits.deps.json
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\bin\Debug\net8.0\SumOfDigits.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\bin\Debug\net8.0\SumOfDigits.dll
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\bin\Debug\net8.0\SumOfDigits.pdb
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.dll
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\refint\SumOfDigits.dll
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.pdb
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\SumOfDigits.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\SumOfDigits\obj\Debug\net8.0\ref\SumOfDigits.dll

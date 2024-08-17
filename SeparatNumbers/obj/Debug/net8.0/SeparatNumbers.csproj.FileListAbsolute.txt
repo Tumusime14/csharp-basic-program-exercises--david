@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\bin\Debug\net8.0\SeparatNumbers.exe
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\bin\Debug\net8.0\SeparatNumbers.deps.json
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\bin\Debug\net8.0\SeparatNumbers.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\bin\Debug\net8.0\SeparatNumbers.dll
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\bin\Debug\net8.0\SeparatNumbers.pdb
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.dll
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\refint\SeparatNumbers.dll
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.pdb
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\SeparatNumbers.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\SeparatNumbers\obj\Debug\net8.0\ref\SeparatNumbers.dll

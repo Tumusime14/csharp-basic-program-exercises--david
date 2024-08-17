@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\bin\Debug\net8.0\SumOfEvens.exe
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\bin\Debug\net8.0\SumOfEvens.deps.json
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\bin\Debug\net8.0\SumOfEvens.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\bin\Debug\net8.0\SumOfEvens.dll
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\bin\Debug\net8.0\SumOfEvens.pdb
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.dll
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\refint\SumOfEvens.dll
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.pdb
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\SumOfEvens.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\SumOfEvens\obj\Debug\net8.0\ref\SumOfEvens.dll

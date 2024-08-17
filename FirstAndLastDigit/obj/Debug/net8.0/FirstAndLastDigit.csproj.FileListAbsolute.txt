@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\bin\Debug\net8.0\FirstAndLastDigit.exe
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\bin\Debug\net8.0\FirstAndLastDigit.deps.json
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\bin\Debug\net8.0\FirstAndLastDigit.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\bin\Debug\net8.0\FirstAndLastDigit.dll
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\bin\Debug\net8.0\FirstAndLastDigit.pdb
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.dll
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\refint\FirstAndLastDigit.dll
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.pdb
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\FirstAndLastDigit.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\FirstAndLastDigit\obj\Debug\net8.0\ref\FirstAndLastDigit.dll

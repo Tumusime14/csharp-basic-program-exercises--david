@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\bin\Debug\net8.0\PrintNumbers.exe
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\bin\Debug\net8.0\PrintNumbers.deps.json
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\bin\Debug\net8.0\PrintNumbers.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\bin\Debug\net8.0\PrintNumbers.dll
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\bin\Debug\net8.0\PrintNumbers.pdb
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.dll
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\refint\PrintNumbers.dll
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.pdb
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\PrintNumbers.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\PrintNumbers\obj\Debug\net8.0\ref\PrintNumbers.dll

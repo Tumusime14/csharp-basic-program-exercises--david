@@ -1,0 +1,5 @@
+D:\TF\C#\BasicProgrammingExercises\SeparateNumbers\obj\Debug\net8.0\SeparateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\SeparateNumbers\obj\Debug\net8.0\SeparateNumbers.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SeparateNumbers\obj\Debug\net8.0\SeparateNumbers.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\SeparateNumbers\obj\Debug\net8.0\SeparateNumbers.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\SeparateNumbers\obj\Debug\net8.0\SeparateNumbers.sourcelink.json
