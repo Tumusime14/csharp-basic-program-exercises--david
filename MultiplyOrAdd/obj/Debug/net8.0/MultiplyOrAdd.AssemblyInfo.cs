@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiplyOrAdd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91be216c04a3b6e48d1fe536321cfa60ad18ce1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c61c0fafedc0b8cbb50ddc3435f5e2fda0539294")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiplyOrAdd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiplyOrAdd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

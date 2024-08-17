@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\Even0to100\bin\Debug\net8.0\Even0to100.exe
+D:\TF\C#\BasicProgrammingExercises\Even0to100\bin\Debug\net8.0\Even0to100.deps.json
+D:\TF\C#\BasicProgrammingExercises\Even0to100\bin\Debug\net8.0\Even0to100.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\Even0to100\bin\Debug\net8.0\Even0to100.dll
+D:\TF\C#\BasicProgrammingExercises\Even0to100\bin\Debug\net8.0\Even0to100.pdb
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.dll
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\refint\Even0to100.dll
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.pdb
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\Even0to100.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\Even0to100\obj\Debug\net8.0\ref\Even0to100.dll

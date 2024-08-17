@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\bin\Debug\net8.0\ChristmasTree.exe
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\bin\Debug\net8.0\ChristmasTree.deps.json
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\bin\Debug\net8.0\ChristmasTree.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\bin\Debug\net8.0\ChristmasTree.dll
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\bin\Debug\net8.0\ChristmasTree.pdb
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.dll
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\refint\ChristmasTree.dll
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.pdb
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ChristmasTree.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\ChristmasTree\obj\Debug\net8.0\ref\ChristmasTree.dll

@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\bin\Debug\net8.0\OddNumbers1-500.exe
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\bin\Debug\net8.0\OddNumbers1-500.deps.json
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\bin\Debug\net8.0\OddNumbers1-500.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\bin\Debug\net8.0\OddNumbers1-500.dll
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\bin\Debug\net8.0\OddNumbers1-500.pdb
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.dll
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\refint\OddNumbers1-500.dll
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.pdb
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\OddNumbers1-500.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\OddNumbers1-500\obj\Debug\net8.0\ref\OddNumbers1-500.dll

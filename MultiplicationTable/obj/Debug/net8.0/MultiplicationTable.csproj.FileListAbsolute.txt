@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.exe
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.deps.json
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.dll
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.pdb
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.dll
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\refint\MultiplicationTable.dll
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.pdb
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\MultiplicationTable\obj\Debug\net8.0\ref\MultiplicationTable.dll

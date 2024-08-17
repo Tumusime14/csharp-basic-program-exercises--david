@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OddNumbers1-500/1.0.0": {
+        "runtime": {
+          "OddNumbers1-500.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OddNumbers1-500/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
