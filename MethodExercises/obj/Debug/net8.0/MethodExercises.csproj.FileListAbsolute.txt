@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\bin\Debug\net8.0\MethodExercises.exe
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\bin\Debug\net8.0\MethodExercises.deps.json
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\bin\Debug\net8.0\MethodExercises.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\bin\Debug\net8.0\MethodExercises.dll
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\bin\Debug\net8.0\MethodExercises.pdb
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.dll
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\refint\MethodExercises.dll
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.pdb
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\MethodExercises.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\MethodExercises\obj\Debug\net8.0\ref\MethodExercises.dll
