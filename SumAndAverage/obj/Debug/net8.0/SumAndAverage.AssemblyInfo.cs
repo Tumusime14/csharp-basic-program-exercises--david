@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumAndAverage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aea8943fb4fd9b4b2e496f9cce9d3c3a5b5bad4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5deb427e8a0ca97c74eb36ae3d0e7b08ea4cd352")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumAndAverage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumAndAverage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
