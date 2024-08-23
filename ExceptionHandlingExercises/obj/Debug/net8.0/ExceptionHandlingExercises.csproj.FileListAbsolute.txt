@@ -1,0 +1,15 @@
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ExceptionHandlingExercises.exe
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ExceptionHandlingExercises.deps.json
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ExceptionHandlingExercises.runtimeconfig.json
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ExceptionHandlingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ExceptionHandlingExercises.pdb
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\refint\ExceptionHandlingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.pdb
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.genruntimeconfig.cache
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ref\ExceptionHandlingExercises.dll
