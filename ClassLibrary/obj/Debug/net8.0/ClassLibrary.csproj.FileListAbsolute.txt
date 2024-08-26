@@ -1,0 +1,12 @@
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\bin\Debug\net8.0\ClassLibrary.deps.json
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\bin\Debug\net8.0\ClassLibrary.dll
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\bin\Debug\net8.0\ClassLibrary.pdb
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.AssemblyInfo.cs
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.sourcelink.json
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.dll
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\refint\ClassLibrary.dll
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ClassLibrary.pdb
+D:\TF\C#\BasicProgrammingExercises\ClassLibrary\obj\Debug\net8.0\ref\ClassLibrary.dll

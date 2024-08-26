@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DaysConverter
+﻿namespace DaysConverter
 {
     class DaysConverter
     {

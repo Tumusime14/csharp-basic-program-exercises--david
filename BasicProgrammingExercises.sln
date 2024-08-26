@@ -62,7 +62,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodExercises", "MethodEx
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountApp", "BankAccountApp\BankAccountApp.csproj", "{8D2D6140-2C45-42BA-B479-E6FD9E1472F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingExercises", "ExceptionHandlingExercises\ExceptionHandlingExercises.csproj", "{277EDED4-81AC-4F3E-B9BC-6F4DA18ACD65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandlingExercises", "ExceptionHandlingExercises\ExceptionHandlingExercises.csproj", "{277EDED4-81AC-4F3E-B9BC-6F4DA18ACD65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{629A69D7-2E8C-4440-B116-F73A00DAFD66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -182,9 +184,16 @@ Global
 		{277EDED4-81AC-4F3E-B9BC-6F4DA18ACD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{277EDED4-81AC-4F3E-B9BC-6F4DA18ACD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{277EDED4-81AC-4F3E-B9BC-6F4DA18ACD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629A69D7-2E8C-4440-B116-F73A00DAFD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629A69D7-2E8C-4440-B116-F73A00DAFD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629A69D7-2E8C-4440-B116-F73A00DAFD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629A69D7-2E8C-4440-B116-F73A00DAFD66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{629A69D7-2E8C-4440-B116-F73A00DAFD66} = {F92AB02A-7045-4D39-80A6-4B616FA6EFCE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CBB453FA-6F13-4DDB-A4BA-9071291A71E4}

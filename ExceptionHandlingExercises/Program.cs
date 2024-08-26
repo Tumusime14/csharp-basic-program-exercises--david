@@ -1,19 +1,19 @@
-﻿namespace ExceptionHandlingExercises
+﻿using ClassLibrary;
+
+namespace ExceptionHandlingExercises
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            //1. DivideNumbers devideNum = new DivideNumbers();
-            //devideNum.Divide();
-            NumberChecker checkNum = new NumberChecker();
-            try
-            {
-                checkNum.CheckNegative(45);
-            }
-            catch(ArgumentException ex) {
-                Console.WriteLine($"Exception caught: {ex.Message}");
-            }
+            //Uncomment on to see the functionality.
+
+            //1. ExceptionsHandling.Divide();
+            //2. ExceptionsHandling.CheckNegative(5);
+            //3. ExceptionsHandling.RangeCheck();
+            //4. ExceptionsHandling.StringToInt();
+            ExceptionsHandling.DevideMethod();
+
         }
     }
 }

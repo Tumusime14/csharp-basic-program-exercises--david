@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace AsciiValueFinder
+﻿namespace AsciiValueFinder
 {
     class ASCIIValueFinder
     {

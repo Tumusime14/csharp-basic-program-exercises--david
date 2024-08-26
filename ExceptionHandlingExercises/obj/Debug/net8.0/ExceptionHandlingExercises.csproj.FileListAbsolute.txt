@@ -13,3 +13,7 @@ D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\r
 D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.pdb
 D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.genruntimeconfig.cache
 D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ref\ExceptionHandlingExercises.dll
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ClassLibrary.dll
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\bin\Debug\net8.0\ClassLibrary.pdb
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\ExceptionHandlingExercises.csproj.AssemblyReference.cache
+D:\TF\C#\BasicProgrammingExercises\ExceptionHandlingExercises\obj\Debug\net8.0\Exceptio.EA107C4A.Up2Date

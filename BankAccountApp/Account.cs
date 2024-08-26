@@ -1,11 +1,8 @@
-﻿using System;
-using System.Globalization;
-
-namespace BankAccountApp
+﻿namespace BankAccountApp
 {
     public class Account
     {
-        private int userId;
+        private readonly int userId;
         private string firstName;
         private string lastName;
         private decimal balance = 0.0m;

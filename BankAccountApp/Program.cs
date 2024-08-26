@@ -6,7 +6,7 @@
         {
             Account accountUser = new Account(1, "David", "TUMSIME");
             Console.WriteLine($"Welcome dear customer {accountUser.FirstName}!");
-                
+
             while (true)
             {
                 Console.WriteLine("Menu:\n 1: Deposit amount\n 2: Withdraw amount\n 3: Check balance\n 0 Exit");
